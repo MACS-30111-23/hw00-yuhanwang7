@@ -8,6 +8,22 @@ Edit this README file to include a brief biography of yourself. Your README shou
 * Images: add a picture (of yourself or something else) to your repo and embed it in your README
 * Links
 * A summary and reflection of the Git/GitHub workflow you adopted for this homework, and of your experience with Markdown (e.g., provide a summary of the workflow you adopted, and add some comments about something new you learned, something that surprised you, etc.)
+# Introduction
+### Yuhan Wang MACSS
+*She/Her*
+I am a freshly graduated undergrad from Ohio State. I chose this program as one of my previous professor introduce me to data visualization. It instantly attracted me with the effectiveness of obtaning and demonstrating data. Getting in the pioneer field of social science is challenging and exciting. I want to have some ability to figure out my curiosity to this world and social sciene after this course. 
+### Hobbies
+* Movies
+* Food
+* Travel
+* My top three country
+    - Thailand
+    - Japan
+    - Rwanda
+>This is a restuarant from columbus which is the best Meditarrean restaurant in town [Lavash Cafe](https://www.lavashcafe.com/).
+![A Photo of Meal from this Restaurant](https://lh3.googleusercontent.com/p/AF1QipMcf2rp-C09aqOgKRqQsWGiKQS9gNS3SbTnSsUE=s1360-w1360-h1020)
+What I have learned from the Github flow is that it is really convnient to save all the changes and can track the past work. It avoid so many steps of download and upload, which can finishing everything in terminal. Also, the markdown file avoids a lot of clickings to change the style of words. It is user friendly that does not interrupt the thinking process when one is typing. 
+
 
 
 
